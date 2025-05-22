@@ -1,0 +1,85 @@
+---
+title: O DEE e o git
+---
+
+# Agenda
+
+1. O problema
+1. Soluções do mundo
+1. Como temos tentado resolver na CEACO
+1. Exemplos
+1. Desafios
+
+---
+
+# O problema
+
+Como tornar a colaboração efetiva
+
+![Colaboração](autores.png)
+
+---
+
+# O problema
+
+Como tornar a colaboração efetiva
+
+Reprodutibilidade dos trabalhos
+
+![Reprodutibilidade](reprod.jpg)
+
+---
+
+# O problema
+
+Como tornar a colaboração efetiva
+
+Reprodutibilidade dos trabalhos
+
+O “inferno” das versões de arquivo
+
+![versoes.png](versoes.png)
+
+---
+
+# Como o mundo resolve?
+
+Uso de controle de versão
+
+![Alterações](alteracao_doc.png)
+
+---
+
+# Como o mundo resolve?
+
+Uso de controle de versão
+Usando o  Git
+
+![git](git_colab.jpg)
+
+
+---
+
+# Soluções tentadas na CEACO
+
+GitLab do CADE (mostra o gitlab do Cade)
+GitLab do DEE (mostrar os projetos da "organização DEE")
+
+# Exemplos práticos
+
+Mostrar repositório da terphane com foco no número de commits
+
+Mostrar repositório da Petz-Cobasi com foco no número de commits
+
+Uso do [Quarto](https://quarto.org/) 
+![Quarto](quarto.png)
+(mostrar site do quarto)
+- Permite uso do git
+- Agnóstico (permite uso de R, Python, Julia ou Javascript)
+
+# Desafios da abordagem atual
+
+Barreira de entrada para novos usuários
+- Precisa aprender git
+- Precisa ter dor de cabeça com o git
+- Mas no fim, é o certo a ser feito.
